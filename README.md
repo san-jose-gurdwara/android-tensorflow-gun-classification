@@ -1,3 +1,6 @@
+##NOTES
+https://hub.docker.com/r/danjarvis/tensorflow-android/
+
 # Android TensorFlow Gun Classification
 
 ### Description
